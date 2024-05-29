@@ -6,6 +6,10 @@ function work(n) {
     alert(`Work,work ${n} times harder!`);
 }
 
+function pause(n) {
+	alert(`Pause for ${n} hours.`);
+}
+
 function sayBye() {
     alert("Good bye from Git!");
 } 
