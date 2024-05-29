@@ -13,3 +13,7 @@ function sayBye() {
 function new1() {
     alert("function new1() is now available.");
 } 
+
+function new2() {
+    alert("function new2() is now available.");
+} 
