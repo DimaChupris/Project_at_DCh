@@ -10,3 +10,6 @@ function sayBye() {
     alert("Good bye from Git!");
 } 
 
+function new1() {
+    alert("function new1() is now available.");
+} 
