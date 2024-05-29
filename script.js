@@ -10,6 +10,10 @@ function pause(n) {
 	alert(`Pause for ${n} hours.`);
 }
 
+function resume() {
+	alert(`Resume your work`);
+}
+
 function sayBye() {
     alert("Good bye from Git!");
 } 
