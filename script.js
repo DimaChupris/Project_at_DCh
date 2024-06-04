@@ -25,3 +25,7 @@ function new1() {
 function new2() {
     alert("function new2() is now available.");
 } 
+
+function newX() {
+    alert("function newX() is now available.");
+} 
